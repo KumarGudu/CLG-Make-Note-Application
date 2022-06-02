@@ -1,2 +1,2 @@
-# Notes App in React.js
+# Notes App in React.js, React Hooks
 
